@@ -26,7 +26,7 @@ public class BitStringManager {
         }
         byte[] bytes = new byte[bitString.length()/8];
         for (int i = 0; i < bitString.length()/8; i++) {
-            bytes[i] = (byte) Integer.parseInt(bitString.substring(i*8, i*8+8));
+            bytes[i] = (byte) Integer.parseInt(bitString.substring(i*8, i*8+8), 2);
         }
         return bytes;
     }
