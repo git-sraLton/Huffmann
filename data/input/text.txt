@@ -1,0 +1,1 @@
+Very important text. This does have to be encrypted. And suddendly it gets reaaaalllly looooooong :) ll eine Huffman-Kodierung fur die Zeichen konstruiert werden, die in der Datei vorkommen.4. Die Huffman-Kodierungstabelle soll in einer externen Datei dec tab.txt in der Form:ASCII-Code von Zeichen1:Code von Zeichen1-A
